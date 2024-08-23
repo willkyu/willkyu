@@ -4,5 +4,6 @@
 - How to reach me:
     - Tencent QQ: 496373158
     - E-mail: willkyu@qq.com
+    - Educational E-mail: sjzhu@stu.suda.edu.cn
 
 ///Have A Good Time! :D///
