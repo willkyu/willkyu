@@ -1,9 +1,8 @@
 - This is @willkyu.
-- Interested in Pokémon, Nintendo games, etc.
-- Currently working on knowledge graphs and recommender systems.
+- Interested in Indie & Nintendo games.
 - How to reach me:
-    - Tencent QQ: 496373158
+    - Tencent QQ: willkyu
     - Personal E-mail: willkyu@qq.com
-    - Educational E-mail: sjzhu@stu.suda.edu.cn
+    - Educational E-mail: ~~sjzhu@stu.suda.edu.cn~~ sjzhu@alu.suda.edu.cn
 
-///Have A Good Time! :D///
+///Have A Nice Day! :D///
